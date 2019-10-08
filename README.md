@@ -11,3 +11,5 @@ Los Métodos Básicos construidos por defecto en JavaScript: Math.random, Math.c
 Abordando el tema de Canvas, podemos entonces añadirle imágenes con el objeto new Image() en coordenadas “aleatorias”. <br/>
 Siendo un poco creativos, puedo entonces generar una Granja con unos cuantos animales en lugares “aleatorios”. Hay tres clases de animales posibles: Gallinas, Cerdos, Vacas. Usaré un tilt de dimensiones 500px x 500px, y en él dibujaré imágenes de animales en cantidades y posiciones “aleatorias”.  
 
+Se me ha autorizado a publicar estas imágenes modificadas de los originales pertenecientes a Platzi.com, Inc.
+
